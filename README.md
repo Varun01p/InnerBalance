@@ -10,4 +10,4 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 https://app.flutterflow.io/run/ryRzVrrCTHe0dtpfvZ9Z
 
 # Download apk from here
-https://drive.google.com/file/d/1BerSS38y3BFKw0J0FPZp0taiaTL2a-SI/view?usp=drive_link
+https://drive.google.com/file/d/1BerSS38y3BFKw0J0FPZp0taiaTL2a-SI/view?usp=sharing
